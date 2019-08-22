@@ -1,4 +1,4 @@
-# CartButton
+# CartButton ➖🛒➕     
 
 ![](https://github.com/unusedbrainstudio/CartButton/blob/master/screens/ezgif-2-530264219962.gif)
 
