@@ -7,7 +7,7 @@
 
 [Read Article](https://unusedbrain.com/blog/2019/08/22/cartbutton-android-demo/)
 
-[Demo Apk](https://github.com/unusedbrainstudio/CartButton/blob/master/CardButton.apk)
+[Demo Apk](https://github.com/unusedbrainstudio/CartButton/raw/master/CardButton.apk)
 
 CartButton is a simple counter button with increment/decrement functionality using feedback animation experience      
 
